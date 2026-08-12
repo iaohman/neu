@@ -29,6 +29,15 @@ You can also embed plots, for example:
 ```{r pressure, echo=FALSE}
 plot(pressure)
 ```
-
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+
+
+
+                      Buoi 2   Dashboard
+. 1.Trực quan hóa dữ liệu cho 1bien :
+1.1 Dữ liệu định tính : frequency table - bảng tần số phân phối
+1.2 Biến định lượng : Bảng thống kê mô tả
+
+
 
