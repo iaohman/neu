@@ -40,4 +40,10 @@ Note that the `echo = FALSE` parameter was added to the code chunk to prevent pr
 1.2 Biến định lượng : Bảng thống kê mô tả
 
 
+Buoi 3 : Data visualization
+file_path <- file.choose()
+market<-read.excel(file_path,sheet=1,col_names=TRUE)
+Bai 1 : + Loc missing value 
++ loc khacg hang la thanh vien
++ taoj 1 data frame khac gom 3bien : tpho.loaisp,danhgiakhachhang
 
